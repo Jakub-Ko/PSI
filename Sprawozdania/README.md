@@ -1,10 +1,5 @@
 # PSI
-Projektowanie systemów informatycznych
 
-artur.samojluk@uwm.edu.pl
+wzorzec nazwy pliku: SPRnr_nazwisko1_nazwisko2.pdf
 
-
-
-Przychodnia Usług Medycznych
-
-https://enzomind.com/files/uwm/wyklady/PSI/cwiczenia2026.txt
+data imie nazwisko Temat
