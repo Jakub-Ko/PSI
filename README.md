@@ -1,1 +1,3 @@
 # PSI
+
+https://enzomind.com/files/uwm/wyklady/PSI/cwiczenia2026.txt
