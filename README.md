@@ -5,6 +5,6 @@ artur.samojluk@uwm.edu.pl
 
 
 
-Przychodnia Medycznych
+Przychodnia Usług Medycznych
 
 https://enzomind.com/files/uwm/wyklady/PSI/cwiczenia2026.txt
