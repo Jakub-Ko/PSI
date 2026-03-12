@@ -1,7 +1,7 @@
 # PSI
 Projektowanie systemów informatycznych
 
-Artur.solmojluk@uwm.edu.pl
+artur.samojluk@uwm.edu.pl
 
 
 
