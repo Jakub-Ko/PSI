@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Model analityczny - Zestawienie NFZ" id="tYBtHA8c_mkqe20Hr5oB">
+    <mxGraphModel dx="2196" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bBf549LBUk51FzjJ2bKc-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontStyle=2;" value="System&#xa;(automatycznie)" vertex="1">
+          <mxGeometry height="80" width="40" x="20" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Administrator" vertex="1">
+          <mxGeometry height="80" width="40" x="20" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-10" edge="1" parent="1" source="bBf549LBUk51FzjJ2bKc-1" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;dashed=1;" target="bBf549LBUk51FzjJ2bKc-18" value="">
+          <mxGeometry height="10" width="120" x="60" y="220" as="geometry">
+            <mxPoint x="180" y="270.909090909091" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-11" edge="1" parent="1" source="bBf549LBUk51FzjJ2bKc-2" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;" target="bBf549LBUk51FzjJ2bKc-18" value="">
+          <mxGeometry height="10" width="120" x="60" y="420" as="geometry">
+            <mxPoint x="205" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-12" edge="1" parent="1" source="bBf549LBUk51FzjJ2bKc-18" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;exitX=1.025;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" target="bBf549LBUk51FzjJ2bKc-21" value="">
+          <mxGeometry height="10" width="100" x="340" y="310" as="geometry">
+            <mxPoint x="340" y="309.41176470588243" as="sourcePoint" />
+            <mxPoint x="440" y="318.671875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-13" edge="1" parent="1" source="bBf549LBUk51FzjJ2bKc-19" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="bBf549LBUk51FzjJ2bKc-21" value="">
+          <mxGeometry height="10" width="100" x="340" y="400" as="geometry">
+            <mxPoint x="340" y="378.0392156862745" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-14" edge="1" parent="1" source="bBf549LBUk51FzjJ2bKc-21" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.8;exitY=0.182;exitDx=0;exitDy=0;exitPerimeter=0;" target="bBf549LBUk51FzjJ2bKc-22" value="">
+          <mxGeometry height="10" width="110" x="590" y="310" as="geometry">
+            <mxPoint x="564" y="300" as="sourcePoint" />
+            <mxPoint x="711" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-15" edge="1" parent="1" source="bBf549LBUk51FzjJ2bKc-21" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.98;exitY=0.373;exitDx=0;exitDy=0;exitPerimeter=0;" target="bBf549LBUk51FzjJ2bKc-23" value="">
+          <mxGeometry height="10" width="110" x="590" y="330" as="geometry">
+            <mxPoint x="590" y="318" as="sourcePoint" />
+            <mxPoint x="700" y="300.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-16" edge="1" parent="1" source="bBf549LBUk51FzjJ2bKc-21" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;entryX=-0.01;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.545;exitDx=0;exitDy=0;exitPerimeter=0;" target="bBf549LBUk51FzjJ2bKc-24" value="">
+          <mxGeometry height="10" width="110" x="590" y="400" as="geometry">
+            <mxPoint x="590" y="351" as="sourcePoint" />
+            <mxPoint x="700" y="381.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-17" edge="1" parent="1" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bBf549LBUk51FzjJ2bKc-25" value="">
+          <mxGeometry height="10" width="110" x="590" y="510" as="geometry">
+            <mxPoint x="555.8333333333335" y="360" as="sourcePoint" />
+            <mxPoint x="719.1666666666665" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-18" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="Panel Raportów NFZ" vertex="1">
+          <mxGeometry height="100" width="120" x="200" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-19" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="API_NFZ" vertex="1">
+          <mxGeometry height="100" width="120" x="200" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-21" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="Raport NFZ" vertex="1">
+          <mxGeometry height="110" width="100" x="470" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-22" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="Wizyta" vertex="1">
+          <mxGeometry height="100" width="100" x="710" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-23" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="Usługa Medyczna" vertex="1">
+          <mxGeometry height="100" width="100" x="710" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-24" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="Rozliczenie NFZ" vertex="1">
+          <mxGeometry height="100" width="100" x="710" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="bBf549LBUk51FzjJ2bKc-25" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="Raport" vertex="1">
+          <mxGeometry height="100" width="100" x="710" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

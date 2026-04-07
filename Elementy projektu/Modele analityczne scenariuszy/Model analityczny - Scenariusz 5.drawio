@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Model analityczny - Odwołanie wizyty" id="_TB1AJX7VMC3TgC9sBPC">
+    <mxGraphModel dx="1369" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Pacjent" vertex="1">
+          <mxGeometry height="80" width="40" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-7" edge="1" parent="1" source="5GiTP_WoUKr3Ne8OAAbt-1" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;entryX=0;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" target="5GiTP_WoUKr3Ne8OAAbt-12" value="">
+          <mxGeometry height="10" width="120" x="80" y="310" as="geometry">
+            <mxPoint x="200" y="306.9767441860465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-8" edge="1" parent="1" source="5GiTP_WoUKr3Ne8OAAbt-12" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;exitX=1.017;exitY=0.48;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;" target="5GiTP_WoUKr3Ne8OAAbt-13" value="">
+          <mxGeometry height="10" width="110" x="350" y="300" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+            <mxPoint x="460" y="306.6067168287759" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-9" edge="1" parent="1" source="5GiTP_WoUKr3Ne8OAAbt-13" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;" value="">
+          <mxGeometry height="10" width="100" x="620" y="300" as="geometry">
+            <mxPoint x="620" y="270" as="sourcePoint" />
+            <mxPoint x="720" y="232.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-10" edge="1" parent="1" source="5GiTP_WoUKr3Ne8OAAbt-13" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0.591;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.045;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;" target="5GiTP_WoUKr3Ne8OAAbt-15" value="">
+          <mxGeometry height="10" width="100" x="620" y="330" as="geometry">
+            <mxPoint x="620" y="310" as="sourcePoint" />
+            <mxPoint x="720" y="322.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-11" edge="1" parent="1" source="5GiTP_WoUKr3Ne8OAAbt-13" style="endArrow=open;endFill=0;html=1;rounded=0;strokeWidth=1;exitX=0.85;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.009;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" target="5GiTP_WoUKr3Ne8OAAbt-16" value="">
+          <mxGeometry height="10" width="100" x="620" y="450" as="geometry">
+            <mxPoint x="589" y="330" as="sourcePoint" />
+            <mxPoint x="736" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-12" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="Okno &quot;Moje Wizyty&quot;" vertex="1">
+          <mxGeometry height="100" width="120" x="200" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-13" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="Odwołanie Wizyty" vertex="1">
+          <mxGeometry height="110" width="100" x="480" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-14" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="Wizyta" vertex="1">
+          <mxGeometry height="110" width="110" x="725" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-15" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="Termin" vertex="1">
+          <mxGeometry height="110" width="110" x="725" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="5GiTP_WoUKr3Ne8OAAbt-16" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="Powiadomienia" vertex="1">
+          <mxGeometry height="110" width="110" x="725" y="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
