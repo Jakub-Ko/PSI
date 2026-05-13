@@ -1,0 +1,214 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="UI - Recepcjonista (nowy styl)" id="v3VcTJLTMPkqnMrPPVbu">
+    <mxGraphModel dx="2176" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ln8xggcAhZqL68my5xXK-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0f4f8;strokeColor=#cbd5e1;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="760" width="1270" x="-90" y="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-65" parent="1" style="text;html=1;strokeColor=none;fillColor=#1a5f7a;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=20;fontColor=#ffffff;fontStyle=1;" value="🩺 System Przychodni Medycznej - Recepcjonista" vertex="1">
+          <mxGeometry height="50" width="1130" x="-20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e1;fontColor=#334155;fontSize=13;" value="👤 Pacjent" vertex="1">
+          <mxGeometry height="40" width="120" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e1;fontColor=#334155;fontSize=13;" value="👨‍⚕️ Lekarz" vertex="1">
+          <mxGeometry height="40" width="110" x="140" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a5f7a;strokeColor=#0e4a62;fontColor=#ffffff;fontStyle=1;fontSize=13;" value="📋 Recepcjonista" vertex="1">
+          <mxGeometry height="40" width="140" x="260" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-70" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=32;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;" value="➕ Zarejestruj nowego pacjenta" vertex="1">
+          <mxGeometry height="252" width="580" x="-40" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-71" parent="ln8xggcAhZqL68my5xXK-70" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#475569;" value="Imię i nazwisko:" vertex="1">
+          <mxGeometry height="22" width="580" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-72" parent="ln8xggcAhZqL68my5xXK-70" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontColor=#334155;align=left;spacingLeft=8;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="22" width="580" y="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-73" parent="ln8xggcAhZqL68my5xXK-70" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#475569;" value="PESEL:" vertex="1">
+          <mxGeometry height="22" width="580" y="76" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-74" parent="ln8xggcAhZqL68my5xXK-70" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontColor=#334155;align=left;spacingLeft=8;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="22" width="580" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-75" parent="ln8xggcAhZqL68my5xXK-70" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#475569;" value="Data urodzenia:" vertex="1">
+          <mxGeometry height="22" width="580" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-76" parent="ln8xggcAhZqL68my5xXK-70" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontColor=#334155;align=left;spacingLeft=8;fontSize=11;" value="YYYY-MM-DD" vertex="1">
+          <mxGeometry height="22" width="580" y="142" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-77" parent="ln8xggcAhZqL68my5xXK-70" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#475569;" value="Telefon:" vertex="1">
+          <mxGeometry height="22" width="580" y="164" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-78" parent="ln8xggcAhZqL68my5xXK-70" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontColor=#334155;align=left;spacingLeft=8;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="22" width="580" y="186" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-79" parent="ln8xggcAhZqL68my5xXK-70" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#475569;" value="E-mail:" vertex="1">
+          <mxGeometry height="22" width="580" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-80" parent="ln8xggcAhZqL68my5xXK-70" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontColor=#334155;align=left;spacingLeft=8;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="22" width="580" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-82" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=32;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" value="🔍 Wyszukaj pacjenta" vertex="1">
+          <mxGeometry height="150" width="580" x="-40" y="568" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-83" parent="ln8xggcAhZqL68my5xXK-82" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=11;fontColor=#475569;" value="PESEL lub nazwisko:" vertex="1">
+          <mxGeometry height="22" width="580" y="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-87" parent="ln8xggcAhZqL68my5xXK-82" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;fontSize=10;fontStyle=2;" value="Przykład: Jan Kowalski (PESEL: 90010112345)" vertex="1">
+          <mxGeometry height="18" width="580" y="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-84" parent="ln8xggcAhZqL68my5xXK-82" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontColor=#334155;align=left;spacingLeft=8;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="22" width="580" y="72" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-85" parent="ln8xggcAhZqL68my5xXK-82" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a5f7a;strokeColor=#0e4a62;fontColor=#ffffff;fontStyle=1;align=center;fontSize=11;" value="🔎 Szukaj" vertex="1">
+          <mxGeometry height="28" width="580" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-86" parent="ln8xggcAhZqL68my5xXK-82" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e1;fontColor=#334155;align=center;fontSize=11;" value="✏️ Modyfikuj dane" vertex="1">
+          <mxGeometry height="28" width="580" y="122" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a5f7a;strokeColor=#0e4a62;fontColor=#ffffff;fontStyle=1;align=center;fontSize=15;shadow=1;" value="📅 Zarządzaj wizytami" vertex="1">
+          <mxGeometry height="36" width="590" x="570" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e1;strokeWidth=1;shadow=0;" value="" vertex="1">
+          <mxGeometry height="50" width="590" x="570" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-90" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#475569;fontStyle=1;" value="Lekarz:" vertex="1">
+          <mxGeometry height="22" width="55" x="585" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontColor=#334155;align=left;spacingLeft=10;fontSize=11;" value="Wszyscy lekarze ▼" vertex="1">
+          <mxGeometry height="22" width="150" x="645" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-92" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#475569;fontStyle=1;" value="Data:" vertex="1">
+          <mxGeometry height="22" width="45" x="815" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;fontColor=#334155;align=left;spacingLeft=10;fontSize=11;" value="2026-05-20" vertex="1">
+          <mxGeometry height="22" width="110" x="860" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a5f7a;strokeColor=#0e4a62;fontColor=#ffffff;align=center;fontSize=11;fontStyle=1;" value="Filtruj" vertex="1">
+          <mxGeometry height="24" width="70" x="985" y="248" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-95" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e1;strokeWidth=1;shadow=0;" value="" vertex="1">
+          <mxGeometry height="65" width="590" x="570" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-96" parent="1" style="text;strokeColor=none;fillColor=#f0f4f8;align=center;verticalAlign=middle;fontSize=14;fontColor=#1a5f7a;fontStyle=1;rounded=1;shadow=0;" value="🕐 09:00" vertex="1">
+          <mxGeometry height="40" width="100" x="580" y="312" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-97" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontColor=#1e293b;fontStyle=1;" value="Jan Kowalski" vertex="1">
+          <mxGeometry height="22" width="140" x="695" y="312" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-98" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748b;" value="PESEL: 90010112345" vertex="1">
+          <mxGeometry height="18" width="130" x="695" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-99" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#475569;" value="👨‍⚕️ dr A. Wiśniewska" vertex="1">
+          <mxGeometry height="20" width="160" x="850" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontColor=#15803d;align=center;fontSize=11;fontStyle=1;" value="Umówiona" vertex="1">
+          <mxGeometry height="22" width="70" x="1020" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e1;fontColor=#334155;align=center;fontSize=11;" value="Edytuj" vertex="1">
+          <mxGeometry height="22" width="50" x="1100" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e1;strokeWidth=1;shadow=0;" value="" vertex="1">
+          <mxGeometry height="65" width="590" x="570" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-103" parent="1" style="text;strokeColor=none;fillColor=#f0f4f8;align=center;verticalAlign=middle;fontSize=14;fontColor=#1a5f7a;fontStyle=1;rounded=1;shadow=0;" value="🕐 11:00" vertex="1">
+          <mxGeometry height="40" width="100" x="580" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-104" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontColor=#1e293b;fontStyle=1;" value="Maria Nowak" vertex="1">
+          <mxGeometry height="22" width="140" x="695" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-105" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748b;" value="PESEL: 85051567890" vertex="1">
+          <mxGeometry height="18" width="130" x="695" y="409" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-106" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#475569;" value="👨‍⚕️ dr A. Wiśniewska" vertex="1">
+          <mxGeometry height="20" width="160" x="850" y="389" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontColor=#15803d;align=center;fontSize=11;fontStyle=1;" value="Umówiona" vertex="1">
+          <mxGeometry height="22" width="70" x="1020" y="389" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-108" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e1;fontColor=#334155;align=center;fontSize=11;" value="Edytuj" vertex="1">
+          <mxGeometry height="22" width="50" x="1100" y="389" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0fdf4;strokeColor=#15803d;strokeWidth=2;shadow=0;dashed=0;" value="" vertex="1">
+          <mxGeometry height="65" width="590" x="570" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-110" parent="1" style="text;strokeColor=none;fillColor=#dcfce7;align=center;verticalAlign=middle;fontSize=14;fontColor=#15803d;fontStyle=1;rounded=1;shadow=0;" value="🕐 13:00" vertex="1">
+          <mxGeometry height="40" width="100" x="580" y="462" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-111" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontColor=#15803d;fontStyle=1;" value="WOLNY TERMIN" vertex="1">
+          <mxGeometry height="22" width="140" x="695" y="462" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-112" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#15803d;" value="📅 Dostępny do rezerwacji" vertex="1">
+          <mxGeometry height="18" width="150" x="695" y="484" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-113" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#475569;" value="👨‍⚕️ dr J. Nowak" vertex="1">
+          <mxGeometry height="20" width="160" x="850" y="464" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontColor=#15803d;align=center;fontSize=11;fontStyle=1;" value="Dostępny" vertex="1">
+          <mxGeometry height="22" width="70" x="1020" y="464" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a5f7a;strokeColor=#0e4a62;fontColor=#ffffff;align=center;fontSize=11;fontStyle=1;" value="Rezerwuj" vertex="1">
+          <mxGeometry height="22" width="50" x="1100" y="464" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e1;strokeWidth=1;shadow=0;" value="" vertex="1">
+          <mxGeometry height="65" width="590" x="570" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-117" parent="1" style="text;strokeColor=none;fillColor=#f0f4f8;align=center;verticalAlign=middle;fontSize=14;fontColor=#1a5f7a;fontStyle=1;rounded=1;shadow=0;" value="🕐 15:00" vertex="1">
+          <mxGeometry height="40" width="100" x="580" y="537" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-118" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontColor=#1e293b;fontStyle=1;" value="Katarzyna Lewandowska" vertex="1">
+          <mxGeometry height="22" width="180" x="695" y="537" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-119" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748b;" value="PESEL: 88071044567" vertex="1">
+          <mxGeometry height="18" width="130" x="695" y="559" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-120" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#475569;" value="👨‍⚕️ dr J. Nowak" vertex="1">
+          <mxGeometry height="20" width="150" x="890" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontColor=#15803d;align=center;fontSize=11;fontStyle=1;" value="Umówiona" vertex="1">
+          <mxGeometry height="22" width="70" x="1020" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e1;fontColor=#334155;align=center;fontSize=11;" value="Edytuj" vertex="1">
+          <mxGeometry height="22" width="50" x="1100" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cbd5e1;strokeWidth=1;shadow=0;" value="" vertex="1">
+          <mxGeometry height="65" width="590" x="570" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-124" parent="1" style="text;strokeColor=none;fillColor=#f0f4f8;align=center;verticalAlign=middle;fontSize=14;fontColor=#1a5f7a;fontStyle=1;rounded=1;shadow=0;" value="🕐 16:30" vertex="1">
+          <mxGeometry height="40" width="100" x="580" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-125" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=14;fontColor=#1e293b;fontStyle=1;" value="Tomasz Wiśniewski" vertex="1">
+          <mxGeometry height="22" width="160" x="695" y="612" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-126" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748b;" value="PESEL: 92032011223" vertex="1">
+          <mxGeometry height="18" width="130" x="695" y="634" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-127" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontColor=#475569;" value="👨‍⚕️ dr A. Wiśniewska" vertex="1">
+          <mxGeometry height="20" width="160" x="870" y="614" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#15803d;fontColor=#15803d;align=center;fontSize=11;fontStyle=1;" value="Umówiona" vertex="1">
+          <mxGeometry height="22" width="70" x="1020" y="614" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e2e8f0;strokeColor=#cbd5e1;fontColor=#334155;align=center;fontSize=11;" value="Edytuj" vertex="1">
+          <mxGeometry height="22" width="50" x="1100" y="614" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a5f7a;strokeColor=#0e4a62;fontColor=#ffffff;fontStyle=1;align=center;fontSize=13;shadow=1;" value="➕ Dodaj nowy termin" vertex="1">
+          <mxGeometry height="36" width="220" x="750" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-131" parent="1" style="text;html=1;strokeColor=none;fillColor=#e2e8f0;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=10;fontColor=#64748b;" value="© 2026 System Przychodni Medycznej | wersja 1.0 | Anna Nowak" vertex="1">
+          <mxGeometry height="28" width="1120" x="-20" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1a5f7a;strokeColor=#0e4a62;fontColor=#ffffff;fontStyle=1;align=center;fontSize=12;" value="✅ Zarejestruj pacjenta" vertex="1">
+          <mxGeometry height="32" width="580" x="-40" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="ln8xggcAhZqL68my5xXK-132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1e293b;align=center;fontStyle=1;" value="Witaj, Anna Nowak&lt;br&gt;Stanowisko: Recepcjonista | R-1234" vertex="1">
+          <mxGeometry height="50" width="580" x="-40" y="176" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
